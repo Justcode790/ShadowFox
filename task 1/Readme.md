@@ -202,7 +202,19 @@ They are often **used together**:
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshots
+
+![Screenshot 2025-06-21 121932](https://github.com/user-attachments/assets/b8654656-684b-4cff-8d73-77f190579e8d)
+![Screenshot 2025-06-21 122151](https://github.com/user-attachments/assets/4de0751e-8a72-4236-b07f-ac030a754bee)
+![Screenshot 2025-06-21 122151](https://github.com/user-attachments/assets/23f38e5f-5707-48f2-b0ca-9c251a5d9501)
+![Screenshot 2025-06-21 122408](https://github.com/user-attachments/assets/ec26b32b-d276-4a2f-b985-2ec0f99ead04)
+![Screenshot 2025-06-21 122408](https://github.com/user-attachments/assets/c4cb9dc5-ddd9-4ef7-8cc6-ba50386e9af0)
+![Screenshot 2025-06-21 122946](https://github.com/user-attachments/assets/cb6e8949-3043-4a4a-80aa-5c449d21dbcd)
+
+
+
+
+
 
 
 
