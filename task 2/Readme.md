@@ -16,6 +16,9 @@ Secondary Pollutants:
 - NO2: Avg. 87.4 μg/m³ (Max: 202.89 μg/m³)
 - NH3: Avg. 30.4 μg/m³ (Max: 156.04 μg/m³)
 
+
+
+
 Code:
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -139,6 +142,18 @@ Key Observations:
 - Nighttime PM2.5 was 2.3× higher than daytime
 
 ---
+
+**ScreenShot**
+
+![figure 1](https://github.com/user-attachments/assets/b79eb4af-7a33-4a79-837e-60213ff76808)
+![Figure_2](https://github.com/user-attachments/assets/ebe1c0f3-5e18-4a3a-8490-9aad5e154f10)
+![Figure_3](https://github.com/user-attachments/assets/9669b827-acec-478f-96b6-0289492309ae)
+
+
+
+
+
+
 
 📌 This README provides a complete, code-backed, and insight-rich analysis of Delhi's AQI during the winter season. Suitable for academic, research, or policy presentations.
 ```
